@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Murali Ganta
-- 👀 I’m interested in ThreeJs, Distributed systems, scala, akka, micro services, digital twins
-- 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on Scala and distributed systems
-- 📫 How to reach me gantamk@gmail.com
+Hi there! 👋 I'm Murali Krishna Ganta
+Experienced Software Engineer, Architect, and CTO with 20+ years in building scalable systems. Currently working on Syntaxia, a platform for rapid backend prototyping and system understanding.
+
+💻 Tech Stack:
+Languages: TypeScript, Scala, JavaScript
+Frameworks: NestJS, React, Next.js
+🚀 Interests:
+Backend architecture
+Functional programming
+Building developer tools
+📫 Let’s connect: murali@syntaxia.io
 
 <!---
 gantamk/gantamk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
