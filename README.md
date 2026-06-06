@@ -1,17 +1,26 @@
-### Hi there! 👋 I'm Murali Krishna Ganta
+# Murali Krishna Ganta
 
-Experienced **Software Engineer, Architect, and CTO** with 17+ years in building scalable systems. Currently working on **Syntaxia**, a platform for rapid backend prototyping and system understanding.
+Software engineer, architect, and CTO. 20+ years building scalable, distributed systems.
 
-#### 💻 Tech Stack:
-- **Languages:** TypeScript, Scala, JavaScript  
-- **Frameworks:** NestJS, React, Next.js  
+Currently building **ContextDX**, the architect's toolkit for making complex systems understandable. Understand, plan, and evolve your architecture.
 
-#### 🚀 Interests:
-- Backend architecture  
-- Functional programming  
-- Building developer tools  
+## Tech
 
-📫 Let’s connect: [@email](mailto:murali@syntaxia.io)  
+- **Languages:** TypeScript, JavaScript, Scala
+- **Frameworks:** Next.js, React, NestJS, Node.js
+- **Infra:** AWS CDK, serverless
+
+## Interests
+
+- Architecture intelligence
+- Functional programming
+- Developer tooling
+- Distributed and legacy systems
+
+## Connect
+
+- **ContextDX:** contextdx.com
+- **Email:** gantamk@gmail.com
 
 
 <!---
